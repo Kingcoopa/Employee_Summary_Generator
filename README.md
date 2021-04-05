@@ -4,5 +4,5 @@ Node CLI that will generate profile for employees.
 ## App In Action
 
 
-<a href:https://user-images.githubusercontent.com/69878838/113525744-b03de480-9584-11eb-8ec0-d29aae817ec1.mp4> RUN_TEST_DEMO </a>
+<a href=https://user-images.githubusercontent.com/69878838/113525744-b03de480-9584-11eb-8ec0-d29aae817ec1.mp4> RUN_TEST_DEMO <video>
 
